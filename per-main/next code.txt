@@ -1,0 +1,192 @@
+</section>
+            <section>
+                <div id="best-selling" class="rect_bst_selling" >
+                    <div class="bstsl-content-main">
+                        <div class="rectangle-container">
+                            <!-- Heading -->
+                            <h2 class="heading-bstsel">Best Selling Products</h2>
+                            <!-- Image container -->
+                            <div class="image-container-bstsel">
+                              <!-- Image 1 -->
+                              <div class="rectangle-bst">
+                                <img src="assets/images/collectionsss1.png" alt="Image 1" >
+                                <div class="image-text">Hats Off <br>₹220.00   100ml</div>
+                              </div>
+                              
+                              <!-- Image 2 -->
+                              <div class="rectangle-bst">
+                                <img src="assets/images/collectionsss2.png" alt="Image 2">
+                                <div class="image-text">Eden <br>₹160.00   100ml</div>
+                              </div>
+                              
+                              <!-- Image 3 -->
+                              <div class="rectangle-bst">
+                                <img src="assets/images/collectionsss3.png" alt="Image 3">
+                                <div class="image-text">Strike <br>₹250.00   100ml</div>
+                              </div>
+                              
+                              <!-- Image 4 -->
+                              <div class="rectangle-bst">
+                                <img src="assets/images/collectionsss4.png" alt="Image 4">
+                                <div class="image-text">Blizzard Of 90’s <br>₹260.00   100ml</div>
+                              </div>
+                              
+                            </div>
+                          </div>
+                          
+            </section>
+            <section>
+            <div class="our_collection">
+                <h2>Our Collection</h2>
+                <div class="our_collection_img1">
+                    <img src="assets/images/collectionsss5.png">
+                    <div class="image_txt">Designer Delights Collection</div>
+
+             </div>
+             <div class="our_collection_img2">
+                <img src="assets/images/collectionsss13.png">
+                <div class="image_txt">Travel Essentials Collections</div>
+
+            </div>
+         </section>
+         <section class="cllc-main">
+            <div class="our_collection_img3">
+                <img src="assets/images/collectionsss7.png">
+                <div class="image_txt">Special occasions Collections</div>
+
+            </div>
+            <div class="our_collection_img4">
+                <img src="assets/images/collectionsss8.png">
+                <div class="image_txt">Seosonal Sensation Collections</div>
+            </div>
+         </section>
+         <section class="cllc-main">
+            <div class="our_collection_img5">
+                <img src="assets/images/collectionsss9.png">
+                <div class="image_txt">Vintage Treasures Collection</div>
+            </div>
+            <div class="our_collection_img6">
+                <img src="assets/images/collectionsss10.png">
+                <div class="image_txt">Limited Edition Treasures</div>
+            </div>
+            <div class="our_collection_img7">
+                <img src="assets/images/collectionsss11.png">
+                <div class="image_txt">Modern Classics Collection</div>
+            </div>
+        </section>
+        <section class="cllc">
+        <div class="our_collection_img8">
+            <img src="assets/images/collectionsss12.png">
+            <div class="image_txt1">Perfume Year-End Sale!<br> Up to 50% OFF</div>
+            <div class="button1">
+                <button>Know More</button>
+            </div>
+            <div class="image_txt2">Discover an exquisite collection of premium
+                 perfumes at unbelievable prices during our exclusive Perfume Sale!</div>
+        </div>
+    </section>
+    <section>
+        <div>
+            <div class="white-rect-abtus"> 
+                <div class="lay"><b>Locally Inspired</b><br>
+                    Our perfumes are meticulously crafted to reflect the cultural heritage, 
+                    traditions, and landscapes of various regions. From the vibrant streets
+                     of Kolkata to the serene cherry blossom gardens of Jammu, each fragrance 
+                     tells a unique story that resonates with its origin.
+                    </div>
+                    <div class="lay">
+                        <b>High-Quality Ingredients</b><br>
+            We believe that the key to an extraordinary scent lies in the quality of ingredients. That's why we collaborate with expert perfumers who source the finest and ethically-sourced materials from around 
+            the world. We never compromise on the quality of our products, ensuring a long-lasting and luxurious experience.
+                    </div>
+                    <div class="lay">
+                        <b>Personalized Service</b><br>
+                        We understand that choosing the perfect scent is a deeply personal experience. Our team of fragrance experts is always ready to assist you in finding a fragrance that complements your personality and style. Whether you're exploring new scents or seeking to rediscover an old favorite, we're here to guide you every step of the way.
+                    </div>
+            </div>
+            <div class="white-rect-abtus2"> 
+                <div class="lay">
+                    Join us on this olfactory adventure as we celebrate the diverse tapestry of scents from around the world. Discover the captivating aromas that embrace the essence of local cultures and connect with the beauty of our shared humanity.
+                <br>
+                Thank you for being a part of our journey.
+                <br>
+                <b>
+                    <br>
+                With love and gratitude, 
+                <br>
+                The Lewa Perfumes Team
+                </b>
+                </div>
+                <div class="abt-rect">
+                    <div class="abt-txt">
+                        About Us
+                    </div>
+                </div>
+            </div>          
+        </div>
+    </section>
+    <section>
+        <div class="footer-rect1">
+            <div class="main-component">
+                <div class="ft-col1">
+                  
+                    <div class="fotr_1">Contact Us!!</div>
+                   
+            <div class="form-container">
+
+                <!-- <form action="/subscribe" method="post"> -->
+                    <form>
+                  
+                  <input type="email" name="email" placeholder="Enter your email" class="email-input" required>
+                  <!-- Submit button -->
+                  <button type="submit" class="submit-button">Submit</button>
+                </form>
+                
+              </div>
+
+              <div class ="social_media">
+                <img src="assets/images/social media.png" alt="">
+            </div>
+
+
+                </div>
+
+               
+              <div class="foot-txt">
+                Customer Care<br>
+                shopping<br>
+                Payments<br>
+                Delivery option<br>
+                Buyer Protection
+              </div>
+              <div class="foot-txt1">
+                Help centre<br>
+                Terms & Conditions<br>
+                Privacy Policy<br>
+                Returns & Refund<br>
+                Survey & feedback
+              </div>
+              <div class="foot-txt2">
+                Email us:  lewaco@email.com<br>
+                Phone:      9743797688<br>
+                Address:  Zubair Manzil, <br>
+                karyanangadi, <br>
+                Belvai
+              </div>
+            </div>
+        </div>
+       <div class="footer2-outer">
+        <div class="footer-rect2">
+            <div class="seller">
+            <img src="assets/images/Shop Location.png" alt="" width="30px" height="30px">Become a seller</div>
+            <div class="help">
+            <img src="assets/images/Online Support.png" alt=""width="30px" height="30px" > Help Centre
+            </div>
+            <div class="rights">
+                <img src="assets/images/visacard.png" alt=""><br>2023 Lewa co. All rights reserved
+            </div>
+        </div> 
+       </div>
+      
+
+    </section>

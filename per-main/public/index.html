@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lewa</title>
+    
+      <link rel="stylesheet" href="styles.css">
+      <link href='https://fonts.googleapis.com/css?family=Outfit' rel='stylesheet'>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            Lewa
+        </div>
+        <nav class="navbar" id="navbar" >
+            <ul>
+                <li><a href="">Home</a></li>
+                <li><a href="#shop-section">Shop</a></li>
+                <li><a href="#">About Us</a></li>
+                
+            </ul>
+        </nav>
+        <div class="menu-icon" id="menu-icon">
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+        </div>
+    </header>
+   <section>
+    <div class="rectangle" >
+        <div class="text">
+         <div class="main_text">Elevate Your Spirit with <br>Victory Scented <br>Fragrances!</div>
+         <div class="sub_text">Shop now and embrace the sweet smell of victory with Lewa.</div>
+         <div class="button">
+             <button>Shop Now!</button>
+         </div>
+         </div>
+ 
+         <div class="hero_image">
+             <img src="assets/images/hero_image.png" alt="hero_image">
+         </div>
+ 
+     </div>
+   </section>
+
+    <section>
+        <div class="rectangle_welcome" >
+            <div class="welcom-content-main">
+                <div class="welcome_heading">Welcome to Lewa</div>
+            
+                <div class="welcome_content">
+                    <p>Welcome to Lewa Perfumes, where the spirit of victory and triumph come alive through scents that empower and 
+                        inspire. Our curated collection, aptly named "Victory Scented," is a celebration of success and elegance, designed to unleash 
+                        your victorious essence. Indulge in the sweet taste of triumph with captivating fragrances that tell the tale of your achievements. 
+                        At Lewa, we believe that every victory deserves 
+                        a signature scent, and we are dedicated to providing unforgettable fragrances that elevate your spirit and empower your journey.</p>
+                </div>   
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="white-rect">  
+            <div class="text-con">
+                <div class="heading-our-val">
+                    Our Values
+                </div>
+                <div class="text-val">
+                    At Lewa, our perfume retail store is built on a foundation of passion and authenticity. We believe in
+                     celebrating the individuality of every customer, providing a diverse collection of scents that resonate with
+                      their unique personality and style. Our dedicated team of fragrance enthusiasts is committed to 
+                    creating a welcoming and inclusive environment, where connections are forged, and inspiration thrives. 
+    
+            <br><br>Embracing sustainability and continuous learning, Lewa strives to be more than just a shopping destination;
+             we are a community that inspires and empowers individuals on their fragrance journey.
+                </div>
+            </div>          
+            <div>
+                <img src="assets/images/val-img.jpg" alt="" class="bottom-left-image">
+                </div>
+            </div>
+
+        
+         
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+    const menuIcon = document.getElementById('menu-icon');
+    const navbar = document.getElementById('navbar');
+
+    menuIcon.addEventListener('click', function () {
+        if (navbar.style.display === 'flex' || navbar.style.display === '') {
+            navbar.style.display = 'none';
+        } else {
+            navbar.style.display = 'flex';
+        }
+    });
+
+    window.addEventListener('resize', function () {
+        if (window.innerWidth > 768) {
+            navbar.style.display = 'flex';
+        } else {
+            navbar.style.display = 'none';
+        }
+    });
+});
+    </script>
+</body>
+</html>
